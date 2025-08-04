@@ -22,10 +22,11 @@ Permite controlar produtos, entradas, saídas e organização física por locali
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b0e1e20a-eecf-4e9e-8e0f-8fd6dc40b5cd" width="250"/>
-  <img src="https://github.com/user-attachments/assets/3a841e85-8b18-49d4-9f23-fd8021c05ad3" width="250"/>
-  <img src="https://github.com/user-attachments/assets/316f4982-1604-4573-9439-04d56dc46d11" width="250"/>
-  <img src="https://github.com/user-attachments/assets/1226eb56-0fa4-4ad7-91d0-fc4d241f2bb8" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b7cf0666-4a7f-4622-97da-21ba8fc45aa3" width="220"/>
+  <img src="https://github.com/user-attachments/assets/eaedf563-4f28-4f79-9825-0e97cffb5445" width="220"/>
+  <img src="https://github.com/user-attachments/assets/9c3e54c0-7552-432a-96da-35e92e675ebb" width="220"/>
+  <img src="https://github.com/user-attachments/assets/84b18c15-604e-45f6-8705-f2879349956d" width="220"/>
+  <img src="https://github.com/user-attachments/assets/08879c79-f0d6-42da-8ba3-3c86291db977" width="220"/>
 </div>
 
 ---
